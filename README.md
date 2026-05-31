@@ -1,15 +1,15 @@
-#📊 E-Commerce Sales Analysis Dashboard
+##📊 E-Commerce Sales Analysis Dashboard
 An interactive Excel-based Sales Analysis Dashboard that enables region-wise and executive-wise performance tracking for an e-commerce business.
 Built entirely in Microsoft Excel using Pivot Tables, Slicers, Charts, and Macros (VBA).  
 ---  
-🚀 Features  
+###🚀 Features  
 City-wise Filtering — Switch between 8 cities: Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, Surat  
 4 Interactive Dashboards — Toggle Dashboard 1–4 using checkboxes to show/hide different KPI views  
 Sales Executive Performance — Total Sales, Target Hit %, and Away From Target % per executive  
 Visual Charts — Bar charts, Pie charts, and Line graphs update dynamically with slicers  
 Cleaned Dataset — Structured raw data with Employee Code, Region, Day-wise Sales, Target, and performance metrics  
 ---  
-📸 Screenshots  
+###📸 Screenshots  
 Dashboard View — Delhi Region  
 ![Dashboard - Delhi](<img width="1884" height="1052" alt="E-commerce-sales-analysis-dashboard-SS1" src="https://github.com/user-attachments/assets/b6e5f40e-15ec-4fd6-afe4-2ad95df76f26" />
 )    
@@ -26,7 +26,7 @@ Cleaned Dataset
 ![Cleaned Dataset](<img width="1907" height="1095" alt="E-commerce-sales-analysis-cleaned-dataset-SS" src="https://github.com/user-attachments/assets/b8681a6a-8858-48f3-81c2-9d3cfbf841ae" />
 )  
 ---  
-📁 File Structure  
+###📁 File Structure  
 ```  
 E-commerce-Sales-Analysis.xlsm  
 │  
@@ -34,7 +34,7 @@ E-commerce-Sales-Analysis.xlsm
 └── Sheet1          → Cleaned raw dataset  
 ```  
 ---  
-🛠️ Tools & Techniques Used  
+###🛠️ Tools & Techniques Used  
 Tool/Feature : Purpose  
 Pivot Tables : Summarizing sales data by region/executive  
 Slicers : City-wise interactive filtering  
@@ -45,7 +45,7 @@ Line Charts :	Away-from-target trend across executives
 Conditional Formatting : Highlighting performance metrics  
 Data Cleaning : Structured dataset with calculated columns  
 ---  
-📊 Key Insights & Business Decisions  
+###📊 Key Insights & Business Decisions  
 - Identified **top-performing executives** (77%+ target hit) and flagged 
   underperformers (55%+ away from target) to support **incentive and coaching decisions**  
 - Performed **region-wise sales comparison** across 8 cities to guide budget 
@@ -54,14 +54,14 @@ Data Cleaning : Structured dataset with calculated columns
 - Quantified **target gap %** per executive, enabling management to set 
   data-driven revised targets and priority action plans  
 ---  
-💡 How to Use  
+###💡 How to Use  
 Download the `.xlsm` file  
 Open in Microsoft Excel (Enable Macros when prompted)  
 Use the city buttons at the top to filter by region  
 Check/uncheck Dashboard 1–4 to toggle different KPI views  
 Hover over charts for detailed tooltips  
 ---  
-👤 Author  
+###👤 Author  
 Anmol Tripathi  
 📧 anmoltripathi8329@gmail.com
 ****
