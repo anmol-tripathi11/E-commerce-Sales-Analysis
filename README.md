@@ -1,4 +1,4 @@
-## E-Commerce Sales Analysis Dashboard
+## 🛒 E-Commerce Sales Analysis Dashboard
 
 An interactive Excel-based Sales Analysis Dashboard that enables region-wise and executive-wise performance tracking for an e-commerce business. Built entirely in Microsoft Excel using Pivot Tables, Slicers, Charts, and Macros (VBA).
 
