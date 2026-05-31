@@ -35,15 +35,15 @@ E-commerce-Sales-Analysis.xlsm
 ```  
 ---  
 🛠️ Tools & Techniques Used  
-Tool/Feature	Purpose  
-Pivot Tables	Summarizing sales data by region/executive  
-Slicers	City-wise interactive filtering  
-VBA Macros	Dashboard toggle via checkboxes  
-Bar Charts	Comparing total sales across executives  
-Pie Charts	Market share / target hit % visualization  
-Line Charts	Away-from-target trend across executives  
-Conditional Formatting	Highlighting performance metrics  
-Data Cleaning	Structured dataset with calculated columns  
+Tool/Feature : Purpose  
+Pivot Tables : Summarizing sales data by region/executive  
+Slicers : City-wise interactive filtering  
+VBA Macros : Dashboard toggle via checkboxes  
+Bar Charts : Comparing total sales across executives  
+Pie Charts : Market share / target hit % visualization  
+Line Charts :	Away-from-target trend across executives  
+Conditional Formatting : Highlighting performance metrics  
+Data Cleaning : Structured dataset with calculated columns  
 ---  
 📊 Key Insights & Business Decisions  
 - Identified **top-performing executives** (77%+ target hit) and flagged 
@@ -64,3 +64,4 @@ Hover over charts for detailed tooltips
 👤 Author  
 Anmol Tripathi  
 📧 anmoltripathi8329@gmail.com
+****
