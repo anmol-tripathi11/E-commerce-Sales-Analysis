@@ -4,7 +4,7 @@ An interactive Excel-based Sales Analysis Dashboard that enables region-wise and
 
 ---
 
-### 🚀 Features
+###  Features
 
 - City-wise Filtering — Switch between 8 cities: Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, Surat
 - 4 Interactive Dashboards — Toggle Dashboard 1–4 using checkboxes to show/hide different KPI views
@@ -14,7 +14,7 @@ An interactive Excel-based Sales Analysis Dashboard that enables region-wise and
 
 ---
 
-### 📸 Screenshots
+###  Screenshots
 
 Dashboard View — Delhi Region
 
@@ -34,7 +34,7 @@ Cleaned Dataset
 
 ---
 
-### 📁 File Structure 
+###  File Structure 
 ```  
 E-commerce-Sales-Analysis.xlsm  
 │  
@@ -43,7 +43,7 @@ E-commerce-Sales-Analysis.xlsm
 ```  
 ---
 
-### 🛠️ Tools & Techniques Used
+###  Tools & Techniques Used
 
 | Tool/Feature | Purpose |
 |---|---|
@@ -58,7 +58,7 @@ E-commerce-Sales-Analysis.xlsm
 
 ---
 
-### 📊 Key Insights & Business Decisions
+###  Key Insights & Business Decisions
 
 - Identified top-performing executives (77%+ target hit) and flagged underperformers (55%+ away from target) to support incentive and coaching decisions
 - Performed region-wise sales comparison across 8 cities to guide budget allocation and headcount planning
@@ -67,7 +67,7 @@ E-commerce-Sales-Analysis.xlsm
 
 ---
 
-### 💡 How to Use
+###  How to Use
 
 - Download the `.xlsm` file
 - Open in Microsoft Excel (Enable Macros when prompted)
